@@ -73,7 +73,7 @@ A production-ready, fully asynchronous web automation SaaS platform designed for
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Wareeday/Saas-Bot-System.git 
 cd saas-bot-system
 ```
 
